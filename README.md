@@ -1,6 +1,7 @@
-<h1> Android project which uses JAVA & PYTHON </h1>
 
-<div id="banner" style="overflow: hidden;justify-content:space-around;">
+
+<h1> Android project which uses JAVA & PYTHON </h1>
+<div id="banner" style="overflow: hidden; display: inline-block;">
 <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
     <img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Android.png"  width="200" alt="android">
 </div>
